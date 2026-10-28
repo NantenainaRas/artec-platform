@@ -1,0 +1,18 @@
+# Ignorer tous les node_modules
+node_modules/
+
+# Ignorer tous les fichiers .env
+# .env
+# .env.*
+
+# Ignorer les dossiers dist
+dist/
+
+# Ignorer les dossiers build
+build/
+
+# Ignorer les dossiers Dart
+.dart_tool/
+
+# Ignorer les logs
+*.log
